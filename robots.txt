@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rule34dle.github.io/sitemap.xml
